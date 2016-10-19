@@ -1,3 +1,6 @@
+#-*- coding:utf-8 -*-
+## using the mnist datasets
+
 import tensorflow as tf
 import numpy as np
 import pandas as pd
